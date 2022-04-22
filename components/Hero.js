@@ -2,7 +2,7 @@ import React from "react";
 
 const Hero = () => {
   return (
-    <div className='flex min-h-screen w-screen max-w-screen-2xl   flex-row items-center justify-center overflow-hidden rounded-xl bg-hero-light text-center  leading-normal text-white dark:bg-hero-dark sm:flex-col  sm:items-start    md:text-left'>
+    <div className='bg-center flex min-h-screen w-screen text-4xl  max-w-screen-2xl flex-row items-center justify-center overflow-hidden rounded-xl bg-hero-light text-center  leading-normal text-white dark:bg-hero-dark sm:flex-col  sm:items-start    md:text-left'>
       <div className='w-full md:px-16 lg:px-44'>
         <h1
           className=' text-7xl font-extrabold

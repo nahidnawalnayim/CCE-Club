@@ -9,7 +9,7 @@ module.exports = {
       backgroundImage: {
         "hero-light": "url('/img/herolight.png')",
         "hero-dark": "url('/img/herodark.png')",
-        "floating-cogs": "url('/img/floating-cogs.svg')",
+        "logo": "url('/img/logo.svg')",
       },
     },
   },

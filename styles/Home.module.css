@@ -2,15 +2,11 @@
   padding: 0 2rem;
 }
 
-.main {
-  @apply flex  min-h-screen flex-1 flex-col  items-center justify-center ;
-}
-
 .footer {
   @apply flex flex-1 items-center justify-center border-t border-solid border-[#eaeaea] px-8;
 }
 .header {
-  @apply flex fixed w-full items-center justify-center  ;
+  @apply fixed z-30 flex w-full items-center justify-center;
 }
 
 .footer a {
