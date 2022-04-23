@@ -6,9 +6,8 @@ ______________________
 2. Landing page design
 3. About page containing info about dept and club
 4. Gallery to showcase images
-5. teachers info
-6. club executive's info
-7. social media info about club and dept
+5. club executive's info
+6. social media info about club and dept
 
 
 
