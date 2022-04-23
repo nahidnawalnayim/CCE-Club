@@ -1,3 +1,28 @@
+# CCE-Club
+______________________
+
+**Todo**:
+1. UI/UX design
+2. Landing page design
+3. About page containing info about dept and club
+4. Gallery to showcase images
+5. teachers info
+6. club executive's info
+7. social media info about club and dept
+
+
+
+**Future Todos**
+1. create contest manager with hackerrank API
+2. 
+
+________________________________________
+________________________________________
+________________________________________
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
